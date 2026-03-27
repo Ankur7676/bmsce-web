@@ -1,0 +1,677 @@
+{
+  "metadata": {
+    "source": "https://www.bmsce.ac.in/",
+    "scrapedAt": "2026-03-27T06:04:26.070Z",
+    "totalFiles": 54,
+    "categories": {
+      "about": 5,
+      "academics": 20,
+      "admissions": 5,
+      "coe": 1,
+      "documents": 3,
+      "facilities": 4,
+      "innovation": 3,
+      "other": 5,
+      "placements": 4,
+      "research": 4
+    }
+  },
+  "college": {
+    "name": "B.M.S. College of Engineering",
+    "location": "Bengaluru, Karnataka, India",
+    "website": "https://www.bmsce.ac.in/",
+    "tagline": "Excellence in Engineering Education Since 1946"
+  },
+  "navigation": {
+    "mainMenu": [
+      {
+        "name": "About Us",
+        "sections": [
+          "About BMSCE",
+          "Governing Body",
+          "Administration",
+          "Staff Details",
+          "Statutory Committee",
+          "Executive Council",
+          "e-Governance",
+          "IIIC",
+          "IQAC",
+          "Annual Reports",
+          "Life at BMSCE",
+          "Group Institutions",
+          "Tenders",
+          "Consultancy"
+        ]
+      },
+      {
+        "name": "Academics",
+        "sections": [
+          "Civil Engineering",
+          "Mechanical Engineering",
+          "EEE",
+          "ECE",
+          "Industrial Engineering",
+          "CSE",
+          "ETE",
+          "ISE",
+          "EIE",
+          "Medical Electronics",
+          "Chemical Engineering",
+          "Biotechnology",
+          "MCA",
+          "Management Studies",
+          "Mathematics",
+          "Physics",
+          "Chemistry",
+          "Aerospace",
+          "AI & ML",
+          "CSE (DS)",
+          "CSE (IoT & CS)",
+          "AI & DS",
+          "CSBS"
+        ]
+      },
+      {
+        "name": "Admissions",
+        "sections": [
+          "Under Graduation",
+          "Post Graduation",
+          "Ph.D",
+          "International Admissions",
+          "Syllabus",
+          "Admission Process"
+        ]
+      },
+      {
+        "name": "Research",
+        "sections": [
+          "About R&D",
+          "R&D Committee",
+          "Staff",
+          "Application Downloads",
+          "Research Centers",
+          "Innovative Labs",
+          "Funded Projects",
+          "MoUs",
+          "Ph.D Awarded",
+          "M.Sc Awarded",
+          "Ph.D Enrollment",
+          "BSN Fellowship",
+          "Journal Publications",
+          "Patents",
+          "Gallery"
+        ]
+      },
+      {
+        "name": "Innovation",
+        "sections": [
+          "CIIE",
+          "IIC",
+          "Big Foundation",
+          "Idea Lab"
+        ]
+      },
+      {
+        "name": "Skill Labs",
+        "sections": [
+          "Product Innovation Lab",
+          "3D Printing Lab",
+          "Aerospace Lab",
+          "BULLZ RACING",
+          "Photovoltaic Systems",
+          "Structural Integrity",
+          "IoT",
+          "Polymer Composites",
+          "Robotics & Embedded Systems",
+          "SEM/XRD Lab",
+          "Centre of Excellence",
+          "AI & ML Center"
+        ]
+      },
+      {
+        "name": "COE",
+        "sections": [
+          "About COE",
+          "COE Message",
+          "DCOE",
+          "Notifications",
+          "Results",
+          "Staff",
+          "Rules & Regulations",
+          "Gallery",
+          "Contact"
+        ]
+      },
+      {
+        "name": "TEQIP",
+        "sections": [
+          "TEQIP-III",
+          "TEQIP-II",
+          "TEQIP-I"
+        ]
+      },
+      {
+        "name": "Facilities",
+        "sections": [
+          "BMS Hospital",
+          "Library",
+          "Hostel",
+          "Data Center",
+          "Sports",
+          "Counselling Center"
+        ]
+      },
+      {
+        "name": "Placements",
+        "sections": [
+          "About Placements",
+          "Training",
+          "Achievements",
+          "Staff",
+          "Statistics",
+          "Activities",
+          "Recruiting Companies",
+          "Gallery",
+          "Contact"
+        ]
+      },
+      {
+        "name": "Documents",
+        "sections": [
+          "NAAC",
+          "NBA",
+          "NIRF",
+          "ARIIA",
+          "AICTE",
+          "Rankings",
+          "BOG Proceedings",
+          "Academic Council",
+          "Affiliation",
+          "Rules",
+          "Scholarships",
+          "CAS Guidelines",
+          "Mandatory Disclosure",
+          "Calendar",
+          "RTI",
+          "Autonomous Status"
+        ]
+      },
+      {
+        "name": "Activities",
+        "sections": [
+          "NCC",
+          "NSS",
+          "Niranthara",
+          "IEEE",
+          "Upagraha",
+          "Vahini",
+          "Phase Shift",
+          "Monthly Activities",
+          "Graduation Day",
+          "GIAN",
+          "Education Videos"
+        ]
+      }
+    ]
+  },
+  "pages": {
+    "about": [
+      {
+        "name": "Administration",
+        "url": "https://bmsce.ac.in/home/Administration",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 179,
+        "imagesCount": 19
+      },
+      {
+        "name": "About BMSCE",
+        "url": "https://bmsce.ac.in/home/About-BMSCE",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 179,
+        "imagesCount": 6
+      },
+      {
+        "name": "Governing Body",
+        "url": "https://bmsce.ac.in/home/The-Visionaries",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 182,
+        "imagesCount": 5
+      },
+      {
+        "name": "IQAC",
+        "url": "https://bmsce.ac.in/home/About-IQAC",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 186,
+        "imagesCount": 4
+      },
+      {
+        "name": "Life at BMSCE",
+        "url": "https://bmsce.ac.in/home/Life-at-BMSCE",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 194,
+        "imagesCount": 38
+      }
+    ],
+    "academics": [
+      {
+        "name": "Aerospace Engineering",
+        "url": "https://bmsce.ac.in/home/Aerospace-Engineering-About",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 203,
+        "imagesCount": 4
+      },
+      {
+        "name": "AI and Data Science",
+        "url": "https://bmsce.ac.in/home/Artificial-Intelligence-and-Data-Science-About",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 203,
+        "imagesCount": 4
+      },
+      {
+        "name": "AI and Machine Learning",
+        "url": "https://bmsce.ac.in/home/Machine-Learning-AI-and-ML-About",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 203,
+        "imagesCount": 4
+      },
+      {
+        "name": "Bio Technology",
+        "url": "https://bmsce.ac.in/home/Bio-Technology-About",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 203,
+        "imagesCount": 4
+      },
+      {
+        "name": "Chemical Engineering",
+        "url": "https://bmsce.ac.in/home/Chemical-Engineering-About",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 203,
+        "imagesCount": 4
+      },
+      {
+        "name": "Civil Engineering",
+        "url": "https://bmsce.ac.in/home/Civil-Engineering-About",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 204,
+        "imagesCount": 4
+      },
+      {
+        "name": "Computer Science and Business Systems",
+        "url": "https://bmsce.ac.in/home/Computer-Science-and-Business-Systems-About",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 203,
+        "imagesCount": 4
+      },
+      {
+        "name": "Computer Science and Engineering",
+        "url": "https://bmsce.ac.in/home/Computer-Science-and-Engineering-About",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 203,
+        "imagesCount": 4
+      },
+      {
+        "name": "CSE (Data Science)",
+        "url": "https://bmsce.ac.in/home/Computer-Science-and-Engineering-DS-About",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 203,
+        "imagesCount": 4
+      },
+      {
+        "name": "CSE (IoT & Cyber Security)",
+        "url": "https://bmsce.ac.in/home/Computer-Science-and-Engineering-IoT-and-CS-About",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 203,
+        "imagesCount": 4
+      },
+      {
+        "name": "Electronics and Communication Engineering",
+        "url": "https://bmsce.ac.in/home/Electronics-and-Communication-Engineering-About",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 203,
+        "imagesCount": 4
+      },
+      {
+        "name": "Electrical and Electronics Engineering",
+        "url": "https://bmsce.ac.in/home/Electrical-and-Electronics-Engineering-About",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 203,
+        "imagesCount": 4
+      },
+      {
+        "name": "Electronics and Instrumentation",
+        "url": "https://bmsce.ac.in/home/Electronics-and-Instrumentation-Engineering-About",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 203,
+        "imagesCount": 4
+      },
+      {
+        "name": "Electronics and Telecommunication",
+        "url": "https://bmsce.ac.in/home/Electronics-and-Telecommunication-Engineering-About",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 203,
+        "imagesCount": 4
+      },
+      {
+        "name": "Industrial Engineering and Management",
+        "url": "https://bmsce.ac.in/home/Industrial-Engineering-and-Management-About",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 204,
+        "imagesCount": 4
+      },
+      {
+        "name": "Information Science and Engineering",
+        "url": "https://bmsce.ac.in/home/Information-Science-and-Engineering-About",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 203,
+        "imagesCount": 4
+      },
+      {
+        "name": "Management Studies",
+        "url": "https://bmsce.ac.in/home/Management-Studies-and-Research-Centre-About",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 203,
+        "imagesCount": 4
+      },
+      {
+        "name": "MCA",
+        "url": "https://bmsce.ac.in/home/Computer-Applications-MCA-About",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 203,
+        "imagesCount": 4
+      },
+      {
+        "name": "Mechanical Engineering",
+        "url": "https://bmsce.ac.in/home/Mechanical-Engineering-About",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 203,
+        "imagesCount": 4
+      },
+      {
+        "name": "Medical Electronics",
+        "url": "https://bmsce.ac.in/home/Medical-Electronics-Engineering-About",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 203,
+        "imagesCount": 4
+      }
+    ],
+    "admissions": [
+      {
+        "name": "International Admissions",
+        "url": "https://bmsce.ac.in/home/International-Admissions",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 187,
+        "imagesCount": 5
+      },
+      {
+        "name": "Post Graduation",
+        "url": "https://bmsce.ac.in/home/Post-Graduation",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 185,
+        "imagesCount": 3
+      },
+      {
+        "name": "PhD",
+        "url": "https://bmsce.ac.in/home/PhD",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 180,
+        "imagesCount": 3
+      },
+      {
+        "name": "Syllabus",
+        "url": "https://bmsce.ac.in/home/Syllabus",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 234,
+        "imagesCount": 3
+      },
+      {
+        "name": "Under Graduation",
+        "url": "https://bmsce.ac.in/home/Under-Graduation",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 179,
+        "imagesCount": 3
+      }
+    ],
+    "coe": [
+      {
+        "name": "COE Office",
+        "url": "https://bmsce.ac.in/home/About-COE-Office",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 179,
+        "imagesCount": 3
+      }
+    ],
+    "documents": [
+      {
+        "name": "AICTE",
+        "url": "https://bmsce.ac.in/home/AICTE",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 194,
+        "imagesCount": 3
+      },
+      {
+        "name": "NAAC",
+        "url": "https://bmsce.ac.in/home/NAAC-Cycle-III",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 240,
+        "imagesCount": 5
+      },
+      {
+        "name": "NIRF",
+        "url": "https://bmsce.ac.in/home/NIRF",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 223,
+        "imagesCount": 4
+      }
+    ],
+    "facilities": [
+      {
+        "name": "BMS Hospital",
+        "url": "https://bmsce.ac.in/home/BMS-Hospital",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 186,
+        "imagesCount": 9
+      },
+      {
+        "name": "Hostel",
+        "url": "https://bmsce.ac.in/home/About-BMSET-Hostels",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 191,
+        "imagesCount": 4
+      },
+      {
+        "name": "Library",
+        "url": "https://bmsce.ac.in/home/About-Library",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 194,
+        "imagesCount": 4
+      },
+      {
+        "name": "Sports",
+        "url": "https://bmsce.ac.in/home/About-Sports",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 196,
+        "imagesCount": 4
+      }
+    ],
+    "innovation": [
+      {
+        "name": "CIIE",
+        "url": "https://bmsce.ac.in/home/Abouts-CIIE",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 182,
+        "imagesCount": 4
+      },
+      {
+        "name": "Idea Lab",
+        "url": "https://bmsce.ac.in/home/Idea-Lab",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 179,
+        "imagesCount": 7
+      },
+      {
+        "name": "IIC",
+        "url": "https://bmsce.ac.in/home/About-IIC",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 184,
+        "imagesCount": 4
+      }
+    ],
+    "other": [
+      {
+        "name": "Contact Us",
+        "url": "https://bmsce.ac.in/home/Contact-Us",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 179,
+        "imagesCount": 3
+      },
+      {
+        "name": "Gallery",
+        "url": "https://bmsce.ac.in/home/CollegeGallery",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 215,
+        "imagesCount": 39
+      },
+      {
+        "name": "News",
+        "url": "https://bmsce.ac.in/home/AllNews",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 189,
+        "imagesCount": 3
+      },
+      {
+        "name": "Rankings",
+        "url": "https://bmsce.ac.in/home/rankings",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 180,
+        "imagesCount": 3
+      },
+      {
+        "name": "Tenders",
+        "url": "https://bmsce.ac.in/home/Tenders",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 219,
+        "imagesCount": 3
+      }
+    ],
+    "placements": [
+      {
+        "name": "About Placements",
+        "url": "https://bmsce.ac.in/home/About-Placements",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 179,
+        "imagesCount": 6
+      },
+      {
+        "name": "Placement Achievements",
+        "url": "https://bmsce.ac.in/home/Placement-Achievements",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 182,
+        "imagesCount": 6
+      },
+      {
+        "name": "Recruiting Companies",
+        "url": "https://bmsce.ac.in/home/Placement-Recruiting-Companies",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 179,
+        "imagesCount": 3
+      },
+      {
+        "name": "Placement Statistics",
+        "url": "https://bmsce.ac.in/home/Placement-Statistics",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 186,
+        "imagesCount": 15
+      }
+    ],
+    "research": [
+      {
+        "name": "R&D About",
+        "url": "https://bmsce.ac.in/home/About-R-and-D",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 179,
+        "imagesCount": 4
+      },
+      {
+        "name": "Research Centers",
+        "url": "https://bmsce.ac.in/home/Research-Centers",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 194,
+        "imagesCount": 3
+      },
+      {
+        "name": "Funded Research Projects",
+        "url": "https://bmsce.ac.in/home/Funded-Research-Projects",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 183,
+        "imagesCount": 3
+      },
+      {
+        "name": "MoUs",
+        "url": "https://bmsce.ac.in/home/MoUs-With-Industries-and-Research-Center",
+        "title": "B.M.S. College of Engineering, Bengaluru",
+        "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. C...",
+        "linksCount": 179,
+        "imagesCount": 3
+      }
+    ]
+  },
+  "homepage": {
+    "title": "B.M.S. College of Engineering, Bengaluru",
+    "textPreview": "B.M.S. College of Engineering, Bengaluru --> Admissions for Management Quota seats are Opened for First Year B.E Courses for 2026-27 at B.M.S. College of Engineering - Click here to view the Details. Admissions are Opened for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2026-27 at B. M. S. College of Engineering. - Click here to view the Details. Admissions are Commenced for Management Quota seats for First Year PG Courses (M.Tech, MBA & MCA) for 2025-26 at B. M. S. College of Engineering. Last date to apply 13th November 2025 - Click here to view the Details. ---> Notification for Faculty Recruitment under Management Cadre for the post of Assistant Professor in Departments CSE,AI & ML, AI & DS, CSE (Data Science), CSE(IoT & Cyber Security including Blockchain Technology), CSBS. --> Attention: Newly Admitted (2025) batch of Students. Induction Program (8th to 13th Sep,2025), Inaugural Function (14th Sep,2025), Commencement of Classes (15th Sep, 2025). --> \" ...",
+    "linksCount": 245,
+    "imagesCount": 64
+  }
+}

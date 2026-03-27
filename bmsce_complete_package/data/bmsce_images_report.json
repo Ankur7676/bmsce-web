@@ -1,0 +1,1291 @@
+{
+  "total": 214,
+  "downloaded": 214,
+  "failed": 0,
+  "images": [
+    {
+      "url": "https://bmsce.ac.in/assets/img/bmsce_logo.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/0_bmsce_logo.jpg",
+      "filename": "bmsce_logo.jpg",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/swayam_logo.png",
+      "file": "/home/z/my-project/download/bmsce_images/1_swayam_logo.png",
+      "filename": "swayam_logo.png",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Virtual Labs Logo.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/2_Virtual_Labs_Logo.jpg",
+      "filename": "Virtual_Labs_Logo.jpg",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/ems_iso.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/3_ems_iso.jpg",
+      "filename": "ems_iso.jpg",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/outstanding_award.png",
+      "file": "/home/z/my-project/download/bmsce_images/4_outstanding_award.png",
+      "filename": "outstanding_award.png",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/naac_certificate.png",
+      "file": "/home/z/my-project/download/bmsce_images/5_naac_certificate.png",
+      "filename": "naac_certificate.png",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/1.png",
+      "file": "/home/z/my-project/download/bmsce_images/6_1.png",
+      "filename": "1.png",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/prgg.png",
+      "file": "/home/z/my-project/download/bmsce_images/7_prgg.png",
+      "filename": "prgg.png",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/bmscegrad1.png",
+      "file": "/home/z/my-project/download/bmsce_images/8_bmscegrad1.png",
+      "filename": "bmscegrad1.png",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/admbro.png",
+      "file": "/home/z/my-project/download/bmsce_images/9_admbro.png",
+      "filename": "admbro.png",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/awardscl.png",
+      "file": "/home/z/my-project/download/bmsce_images/10_awardscl.png",
+      "filename": "awardscl.png",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/naaca++.png",
+      "file": "/home/z/my-project/download/bmsce_images/11_naaca__.png",
+      "filename": "naaca__.png",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/naaccertificate.png",
+      "file": "/home/z/my-project/download/bmsce_images/12_naaccertificate.png",
+      "filename": "naaccertificate.png",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/Advt-09-12-2024.png",
+      "file": "/home/z/my-project/download/bmsce_images/13_Advt-09-12-2024.png",
+      "filename": "Advt-09-12-2024.png",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/Alumni Day_24.png",
+      "file": "/home/z/my-project/download/bmsce_images/14_Alumni_Day_24.png",
+      "filename": "Alumni_Day_24.png",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/Sports Day_24.png",
+      "file": "/home/z/my-project/download/bmsce_images/15_Sports_Day_24.png",
+      "filename": "Sports_Day_24.png",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/Inauguration Day.png",
+      "file": "/home/z/my-project/download/bmsce_images/16_Inauguration_Day.png",
+      "filename": "Inauguration_Day.png",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/GRADUATION_DAY_2024.png",
+      "file": "/home/z/my-project/download/bmsce_images/17_GRADUATION_DAY_2024.png",
+      "filename": "GRADUATION_DAY_2024.png",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/ppp.png",
+      "file": "/home/z/my-project/download/bmsce_images/18_ppp.png",
+      "filename": "ppp.png",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/kiosk11.png",
+      "file": "/home/z/my-project/download/bmsce_images/19_kiosk11.png",
+      "filename": "kiosk11.png",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/BMSCE_ISO2.png",
+      "file": "/home/z/my-project/download/bmsce_images/20_BMSCE_ISO2.png",
+      "filename": "BMSCE_ISO2.png",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/BMSCE_ISO.png",
+      "file": "/home/z/my-project/download/bmsce_images/21_BMSCE_ISO.png",
+      "filename": "BMSCE_ISO.png",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/BMSCEGD.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/22_BMSCEGD.jpg",
+      "filename": "BMSCEGD.jpg",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/Graduation_2024.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/23_Graduation_2024.jpg",
+      "filename": "Graduation_2024.jpg",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/Graduation day_2024.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/24_Graduation_day_2024.jpg",
+      "filename": "Graduation_day_2024.jpg",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/yuvanidhiii.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/25_yuvanidhiii.jpg",
+      "filename": "yuvanidhiii.jpg",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/Hiring_banners05.png",
+      "file": "/home/z/my-project/download/bmsce_images/26_Hiring_banners05.png",
+      "filename": "Hiring_banners05.png",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/Website-poster-for-FIST.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/27_Website-poster-for-FIST.jpg",
+      "filename": "Website-poster-for-FIST.jpg",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/5gg.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/28_5gg.jpg",
+      "filename": "5gg.jpg",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/graduation_day.png",
+      "file": "/home/z/my-project/download/bmsce_images/29_graduation_day.png",
+      "filename": "graduation_day.png",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/bmsce_hirings.png",
+      "file": "/home/z/my-project/download/bmsce_images/30_bmsce_hirings.png",
+      "filename": "bmsce_hirings.png",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/BMSCE_Admission.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/31_BMSCE_Admission.jpg",
+      "filename": "BMSCE_Admission.jpg",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/CIIE.png",
+      "file": "/home/z/my-project/download/bmsce_images/32_CIIE.png",
+      "filename": "CIIE.png",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/building.png",
+      "file": "/home/z/my-project/download/bmsce_images/33_building.png",
+      "filename": "building.png",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/building1.png",
+      "file": "/home/z/my-project/download/bmsce_images/34_building1.png",
+      "filename": "building1.png",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/Slider-2020-001.png",
+      "file": "/home/z/my-project/download/bmsce_images/35_Slider-2020-001.png",
+      "filename": "Slider-2020-001.png",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/LiveShow.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/36_LiveShow.jpg",
+      "filename": "LiveShow.jpg",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/slider.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/37_slider.jpg",
+      "filename": "slider.jpg",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/talk.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/38_talk.jpg",
+      "filename": "talk.jpg",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/admission.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/39_admission.jpg",
+      "filename": "admission.jpg",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/cowin.jpeg",
+      "file": "/home/z/my-project/download/bmsce_images/40_cowin.jpeg",
+      "filename": "cowin.jpeg",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/Covid19.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/41_Covid19.jpg",
+      "filename": "Covid19.jpg",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/COVID-19.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/42_COVID-19.jpg",
+      "filename": "COVID-19.jpg",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/Slider-01.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/43_Slider-01.jpg",
+      "filename": "Slider-01.jpg",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/Slider-02.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/44_Slider-02.jpg",
+      "filename": "Slider-02.jpg",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/Slider-1.JPG",
+      "file": "/home/z/my-project/download/bmsce_images/45_Slider-1.JPG",
+      "filename": "Slider-1.JPG",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/Slider-3.JPG",
+      "file": "/home/z/my-project/download/bmsce_images/46_Slider-3.JPG",
+      "filename": "Slider-3.JPG",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/blinking_new.gif",
+      "file": "/home/z/my-project/download/bmsce_images/47_blinking_new.gif",
+      "filename": "blinking_new.gif",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/B.M.Sreenivasaiah.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/48_B.M.Sreenivasaiah.jpg",
+      "filename": "B.M.Sreenivasaiah.jpg",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/B.S.Narayan.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/49_B.S.Narayan.jpg",
+      "filename": "B.S.Narayan.jpg",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/files/Dr. Bheemsha Arya.jpeg",
+      "file": "/home/z/my-project/download/bmsce_images/50_Dr._Bheemsha_Arya.jpeg",
+      "filename": "Dr._Bheemsha_Arya.jpeg",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Library/Library-10.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/51_Library-10.jpg",
+      "filename": "Library-10.jpg",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Library/Library-5.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/52_Library-5.jpg",
+      "filename": "Library-5.jpg",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Library/Library-1.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/53_Library-1.jpg",
+      "filename": "Library-1.jpg",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Library/Library-2.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/54_Library-2.jpg",
+      "filename": "Library-2.jpg",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Library/Library-13.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/55_Library-13.jpg",
+      "filename": "Library-13.jpg",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/pop1.jpeg",
+      "file": "/home/z/my-project/download/bmsce_images/56_pop1.jpeg",
+      "filename": "pop1.jpeg",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/bmsce_naac.png",
+      "file": "/home/z/my-project/download/bmsce_images/57_bmsce_naac.png",
+      "filename": "bmsce_naac.png",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/naaccc.jpeg",
+      "file": "/home/z/my-project/download/bmsce_images/58_naaccc.jpeg",
+      "filename": "naaccc.jpeg",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/utsavv.png",
+      "file": "/home/z/my-project/download/bmsce_images/59_utsavv.png",
+      "filename": "utsavv.png",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/eResources.png",
+      "file": "/home/z/my-project/download/bmsce_images/60_eResources.png",
+      "filename": "eResources.png",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/independence_day.png",
+      "file": "/home/z/my-project/download/bmsce_images/61_independence_day.png",
+      "filename": "independence_day.png",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/BSN.png",
+      "file": "/home/z/my-project/download/bmsce_images/62_BSN.png",
+      "filename": "BSN.png",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Slider/live_show.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/63_live_show.jpg",
+      "filename": "live_show.jpg",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/patterns/tiling.png",
+      "file": "/home/z/my-project/download/bmsce_images/64_tiling.png",
+      "filename": "tiling.png",
+      "source": "homepage"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Administration/Dr. Bheemsha.jpeg",
+      "file": "/home/z/my-project/download/bmsce_images/65_Dr._Bheemsha.jpeg",
+      "filename": "Dr._Bheemsha.jpeg",
+      "source": "about_administration.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Administration/Dr__Sakey_Shamu.JPG",
+      "file": "/home/z/my-project/download/bmsce_images/66_Dr__Sakey_Shamu.JPG",
+      "filename": "Dr__Sakey_Shamu.JPG",
+      "source": "about_administration.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Administration/Wg Cdr R A Raghavan.png",
+      "file": "/home/z/my-project/download/bmsce_images/67_Wg_Cdr_R_A_Raghavan.png",
+      "filename": "Wg_Cdr_R_A_Raghavan.png",
+      "source": "about_administration.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Administration/Dr_Ravi_Kumar_L_.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/68_Dr_Ravi_Kumar_L_.jpg",
+      "filename": "Dr_Ravi_Kumar_L_.jpg",
+      "source": "about_administration.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Administration/Dr_Seshachalam_D.jpeg",
+      "file": "/home/z/my-project/download/bmsce_images/69_Dr_Seshachalam_D.jpeg",
+      "filename": "Dr_Seshachalam_D.jpeg",
+      "source": "about_administration.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Administration/Dr_Lakshmi_Narayana_C_.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/70_Dr_Lakshmi_Narayana_C_.jpg",
+      "filename": "Dr_Lakshmi_Narayana_C_.jpg",
+      "source": "about_administration.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Administration/Dr_Gowrishankar.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/71_Dr_Gowrishankar.jpg",
+      "filename": "Dr_Gowrishankar.jpg",
+      "source": "about_administration.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Administration/Dr_Rajeshwari_M_Hegde.jpeg",
+      "file": "/home/z/my-project/download/bmsce_images/72_Dr_Rajeshwari_M_Hegde.jpeg",
+      "filename": "Dr_Rajeshwari_M_Hegde.jpeg",
+      "source": "about_administration.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/CIIIE/savitri_bhat.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/73_savitri_bhat.jpg",
+      "filename": "savitri_bhat.jpg",
+      "source": "about_administration.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Administration/Dr_Suma_H_N.JPG",
+      "file": "/home/z/my-project/download/bmsce_images/74_Dr_Suma_H_N.JPG",
+      "filename": "Dr_Suma_H_N.JPG",
+      "source": "about_administration.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Administration/Dr__S_B_Bhanu_Prashanth.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/75_Dr__S_B_Bhanu_Prashanth.jpg",
+      "filename": "Dr__S_B_Bhanu_Prashanth.jpg",
+      "source": "about_administration.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Administration/default.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/76_default.jpg",
+      "filename": "default.jpg",
+      "source": "about_administration.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Administration/Dr__Sharanabasavaraj_J_.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/77_Dr__Sharanabasavaraj_J_.jpg",
+      "filename": "Dr__Sharanabasavaraj_J_.jpg",
+      "source": "about_administration.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Administration/Appaji M. Abhishek.JPG",
+      "file": "/home/z/my-project/download/bmsce_images/78_Appaji_M._Abhishek.JPG",
+      "filename": "Appaji_M._Abhishek.JPG",
+      "source": "about_administration.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Administration/Dr. Ch. Ram Mohan Reddy.JPG",
+      "file": "/home/z/my-project/download/bmsce_images/79_Dr._Ch._Ram_Mohan_Reddy.JPG",
+      "filename": "Dr._Ch._Ram_Mohan_Reddy.JPG",
+      "source": "about_administration.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Accounts/Venkatesh.JPG",
+      "file": "/home/z/my-project/download/bmsce_images/80_Venkatesh.JPG",
+      "filename": "Venkatesh.JPG",
+      "source": "about_administration.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/about1.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/81_about1.jpg",
+      "filename": "about1.jpg",
+      "source": "about_bmsce.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/about2.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/82_about2.jpg",
+      "filename": "about2.jpg",
+      "source": "about_bmsce.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/about3.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/83_about3.jpg",
+      "filename": "about3.jpg",
+      "source": "about_bmsce.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/PRAPHULLA.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/84_PRAPHULLA.jpg",
+      "filename": "PRAPHULLA.jpg",
+      "source": "about_iqac.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/life/logo1.png",
+      "file": "/home/z/my-project/download/bmsce_images/85_logo1.png",
+      "filename": "logo1.png",
+      "source": "about_life.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/life/logo2.png",
+      "file": "/home/z/my-project/download/bmsce_images/86_logo2.png",
+      "filename": "logo2.png",
+      "source": "about_life.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/life/logo3.png",
+      "file": "/home/z/my-project/download/bmsce_images/87_logo3.png",
+      "filename": "logo3.png",
+      "source": "about_life.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/life/logo4.png",
+      "file": "/home/z/my-project/download/bmsce_images/88_logo4.png",
+      "filename": "logo4.png",
+      "source": "about_life.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/life/logo5.png",
+      "file": "/home/z/my-project/download/bmsce_images/89_logo5.png",
+      "filename": "logo5.png",
+      "source": "about_life.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/life/logo6.png",
+      "file": "/home/z/my-project/download/bmsce_images/90_logo6.png",
+      "filename": "logo6.png",
+      "source": "about_life.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/life/logo7.png",
+      "file": "/home/z/my-project/download/bmsce_images/91_logo7.png",
+      "filename": "logo7.png",
+      "source": "about_life.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/life/logo8.png",
+      "file": "/home/z/my-project/download/bmsce_images/92_logo8.png",
+      "filename": "logo8.png",
+      "source": "about_life.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/life/logo9.png",
+      "file": "/home/z/my-project/download/bmsce_images/93_logo9.png",
+      "filename": "logo9.png",
+      "source": "about_life.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/life/logo10.png",
+      "file": "/home/z/my-project/download/bmsce_images/94_logo10.png",
+      "filename": "logo10.png",
+      "source": "about_life.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/life/logo11.png",
+      "file": "/home/z/my-project/download/bmsce_images/95_logo11.png",
+      "filename": "logo11.png",
+      "source": "about_life.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/life/logo12.png",
+      "file": "/home/z/my-project/download/bmsce_images/96_logo12.png",
+      "filename": "logo12.png",
+      "source": "about_life.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/life/logo13.png",
+      "file": "/home/z/my-project/download/bmsce_images/97_logo13.png",
+      "filename": "logo13.png",
+      "source": "about_life.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/life/logo14.png",
+      "file": "/home/z/my-project/download/bmsce_images/98_logo14.png",
+      "filename": "logo14.png",
+      "source": "about_life.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/life/logo15.png",
+      "file": "/home/z/my-project/download/bmsce_images/99_logo15.png",
+      "filename": "logo15.png",
+      "source": "about_life.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/life/logo16.png",
+      "file": "/home/z/my-project/download/bmsce_images/100_logo16.png",
+      "filename": "logo16.png",
+      "source": "about_life.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/life/logo17.png",
+      "file": "/home/z/my-project/download/bmsce_images/101_logo17.png",
+      "filename": "logo17.png",
+      "source": "about_life.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/life/logo18.png",
+      "file": "/home/z/my-project/download/bmsce_images/102_logo18.png",
+      "filename": "logo18.png",
+      "source": "about_life.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/life/logo19.png",
+      "file": "/home/z/my-project/download/bmsce_images/103_logo19.png",
+      "filename": "logo19.png",
+      "source": "about_life.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/life/logo20.png",
+      "file": "/home/z/my-project/download/bmsce_images/104_logo20.png",
+      "filename": "logo20.png",
+      "source": "about_life.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/life/logo21.png",
+      "file": "/home/z/my-project/download/bmsce_images/105_logo21.png",
+      "filename": "logo21.png",
+      "source": "about_life.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/life/logo22.png",
+      "file": "/home/z/my-project/download/bmsce_images/106_logo22.png",
+      "filename": "logo22.png",
+      "source": "about_life.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/life/logo23.png",
+      "file": "/home/z/my-project/download/bmsce_images/107_logo23.png",
+      "filename": "logo23.png",
+      "source": "about_life.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/life/IEEE_BMSCE.png",
+      "file": "/home/z/my-project/download/bmsce_images/108_IEEE_BMSCE.png",
+      "filename": "IEEE_BMSCE.png",
+      "source": "about_life.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/life/BMSCE_Utsav.png",
+      "file": "/home/z/my-project/download/bmsce_images/109_BMSCE_Utsav.png",
+      "filename": "BMSCE_Utsav.png",
+      "source": "about_life.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/life/Phase_Shift.png",
+      "file": "/home/z/my-project/download/bmsce_images/110_Phase_Shift.png",
+      "filename": "Phase_Shift.png",
+      "source": "about_life.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/life/Photography_Club.png",
+      "file": "/home/z/my-project/download/bmsce_images/111_Photography_Club.png",
+      "filename": "Photography_Club.png",
+      "source": "about_life.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/life/bmsce_mountaineering_club.png",
+      "file": "/home/z/my-project/download/bmsce_images/112_bmsce_mountaineering_club.png",
+      "filename": "bmsce_mountaineering_club.png",
+      "source": "about_life.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/life/bmsce_rotaract_club.png",
+      "file": "/home/z/my-project/download/bmsce_images/113_bmsce_rotaract_club.png",
+      "filename": "bmsce_rotaract_club.png",
+      "source": "about_life.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/life/melton_foundation.png",
+      "file": "/home/z/my-project/download/bmsce_images/114_melton_foundation.png",
+      "filename": "melton_foundation.png",
+      "source": "about_life.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/life/chiranthana_kannada_sangha_bmsce.png",
+      "file": "/home/z/my-project/download/bmsce_images/115_chiranthana_kannada_sangha_bmsce.png",
+      "filename": "chiranthana_kannada_sangha_bmsce.png",
+      "source": "about_life.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/life/nss_unit_bmsce.png",
+      "file": "/home/z/my-project/download/bmsce_images/116_nss_unit_bmsce.png",
+      "filename": "nss_unit_bmsce.png",
+      "source": "about_life.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/life/bmsce_ncc.png",
+      "file": "/home/z/my-project/download/bmsce_images/117_bmsce_ncc.png",
+      "filename": "bmsce_ncc.png",
+      "source": "about_life.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/life/bmsce_entrepreneurship_development_cell.png",
+      "file": "/home/z/my-project/download/bmsce_images/118_bmsce_entrepreneurship_development_cell.png",
+      "filename": "bmsce_entrepreneurship_development_cell.png",
+      "source": "about_life.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/life/aerospace_bmsce.png",
+      "file": "/home/z/my-project/download/bmsce_images/119_aerospace_bmsce.png",
+      "filename": "aerospace_bmsce.png",
+      "source": "about_life.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/./faculty/AE/HOD-301049.JPG",
+      "file": "/home/z/my-project/download/bmsce_images/120_HOD-301049.JPG",
+      "filename": "HOD-301049.JPG",
+      "source": "academics_aerospace.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/./faculty/ADS/HOD-140955.JPG",
+      "file": "/home/z/my-project/download/bmsce_images/121_HOD-140955.JPG",
+      "filename": "HOD-140955.JPG",
+      "source": "academics_aids.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/./faculty/MEL/HOD-200935.JPG",
+      "file": "/home/z/my-project/download/bmsce_images/122_HOD-200935.JPG",
+      "filename": "HOD-200935.JPG",
+      "source": "academics_aiml.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/./faculty/BT/HOD-161316.JPG",
+      "file": "/home/z/my-project/download/bmsce_images/123_HOD-161316.JPG",
+      "filename": "HOD-161316.JPG",
+      "source": "academics_biotech.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/./faculty/CH/HOD-170606.JPG",
+      "file": "/home/z/my-project/download/bmsce_images/124_HOD-170606.JPG",
+      "filename": "HOD-170606.JPG",
+      "source": "academics_chemical.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/./faculty/CV/HOD-141602.JPG",
+      "file": "/home/z/my-project/download/bmsce_images/125_HOD-141602.JPG",
+      "filename": "HOD-141602.JPG",
+      "source": "academics_civil.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/./faculty/CBS/HOD-121244.JPG",
+      "file": "/home/z/my-project/download/bmsce_images/126_HOD-121244.JPG",
+      "filename": "HOD-121244.JPG",
+      "source": "academics_csbs.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/./faculty/CS/HOD-161218.JPG",
+      "file": "/home/z/my-project/download/bmsce_images/127_HOD-161218.JPG",
+      "filename": "HOD-161218.JPG",
+      "source": "academics_cse.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/./faculty/CDS/HOD-222126.JPG",
+      "file": "/home/z/my-project/download/bmsce_images/128_HOD-222126.JPG",
+      "filename": "HOD-222126.JPG",
+      "source": "academics_cse_ds.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/./faculty/CSI/HOD-101526.JPG",
+      "file": "/home/z/my-project/download/bmsce_images/129_HOD-101526.JPG",
+      "filename": "HOD-101526.JPG",
+      "source": "academics_cse_iot.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/./faculty/EC/HOD-241525.JPG",
+      "file": "/home/z/my-project/download/bmsce_images/130_HOD-241525.JPG",
+      "filename": "HOD-241525.JPG",
+      "source": "academics_ece.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/./faculty/EE/HOD-191222.JPG",
+      "file": "/home/z/my-project/download/bmsce_images/131_HOD-191222.JPG",
+      "filename": "HOD-191222.JPG",
+      "source": "academics_eee.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/./faculty/IT/HOD-111147.JPG",
+      "file": "/home/z/my-project/download/bmsce_images/132_HOD-111147.JPG",
+      "filename": "HOD-111147.JPG",
+      "source": "academics_eie.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/./faculty/TE/HOD-181237.JPG",
+      "file": "/home/z/my-project/download/bmsce_images/133_HOD-181237.JPG",
+      "filename": "HOD-181237.JPG",
+      "source": "academics_ete.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/./faculty/IM/HOD-171352.JPG",
+      "file": "/home/z/my-project/download/bmsce_images/134_HOD-171352.JPG",
+      "filename": "HOD-171352.JPG",
+      "source": "academics_iem.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/./faculty/IS/HOD-171102.JPG",
+      "file": "/home/z/my-project/download/bmsce_images/135_HOD-171102.JPG",
+      "filename": "HOD-171102.JPG",
+      "source": "academics_ise.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/./faculty/MBA/HOD-061016.JPG",
+      "file": "/home/z/my-project/download/bmsce_images/136_HOD-061016.JPG",
+      "filename": "HOD-061016.JPG",
+      "source": "academics_management.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/./faculty/MCA/HOD-131506.JPG",
+      "file": "/home/z/my-project/download/bmsce_images/137_HOD-131506.JPG",
+      "filename": "HOD-131506.JPG",
+      "source": "academics_mca.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/./faculty/ME/HOD-131155.JPG",
+      "file": "/home/z/my-project/download/bmsce_images/138_HOD-131155.JPG",
+      "filename": "HOD-131155.JPG",
+      "source": "academics_mechanical.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/./faculty/ML/HOD-161627.JPG",
+      "file": "/home/z/my-project/download/bmsce_images/139_HOD-161627.JPG",
+      "filename": "HOD-161627.JPG",
+      "source": "academics_medical_electronics.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/trustees/ragini_narayan.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/140_ragini_narayan.jpg",
+      "filename": "ragini_narayan.jpg",
+      "source": "admissions_international.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/trustees/Dr. H.S. Jagadeesh.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/141_Dr._H.S._Jagadeesh.jpg",
+      "filename": "Dr._H.S._Jagadeesh.jpg",
+      "source": "admissions_international.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/files/NACC/NACC_Cycle_3/Naac cycle 3.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/142_Naac_cycle_3.jpg",
+      "filename": "Naac_cycle_3.jpg",
+      "source": "documents_naac.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/files/NACC/NACC_Cycle_3/Naac- Cycle 3 Cert.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/143_Naac-_Cycle_3_Cert.jpg",
+      "filename": "Naac-_Cycle_3_Cert.jpg",
+      "source": "documents_naac.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/files/NIRF/NIRF Ranking 2022.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/144_NIRF_Ranking_2022.jpg",
+      "filename": "NIRF_Ranking_2022.jpg",
+      "source": "documents_nirf.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Hospital/BMS Campus Health Care Centre-1.JPG",
+      "file": "/home/z/my-project/download/bmsce_images/145_BMS_Campus_Health_Care_Centre-1.JPG",
+      "filename": "BMS_Campus_Health_Care_Centre-1.JPG",
+      "source": "facilities_hospital.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Hospital/BMS Campus Health Care Centre-2.JPG",
+      "file": "/home/z/my-project/download/bmsce_images/146_BMS_Campus_Health_Care_Centre-2.JPG",
+      "filename": "BMS_Campus_Health_Care_Centre-2.JPG",
+      "source": "facilities_hospital.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Hospital/BMS Campus Health Care Centre.JPG",
+      "file": "/home/z/my-project/download/bmsce_images/147_BMS_Campus_Health_Care_Centre.JPG",
+      "filename": "BMS_Campus_Health_Care_Centre.JPG",
+      "source": "facilities_hospital.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Hospital/bms_hospital_1.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/148_bms_hospital_1.jpg",
+      "filename": "bms_hospital_1.jpg",
+      "source": "facilities_hospital.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Hospital/bms_hospital_2.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/149_bms_hospital_2.jpg",
+      "filename": "bms_hospital_2.jpg",
+      "source": "facilities_hospital.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Hospital/bms_hospital_3.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/150_bms_hospital_3.jpg",
+      "filename": "bms_hospital_3.jpg",
+      "source": "facilities_hospital.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/hostels.png",
+      "file": "/home/z/my-project/download/bmsce_images/151_hostels.png",
+      "filename": "hostels.png",
+      "source": "facilities_hostel.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Library/Dr.N.Chowdappa.JPG",
+      "file": "/home/z/my-project/download/bmsce_images/152_Dr.N.Chowdappa.JPG",
+      "filename": "Dr.N.Chowdappa.JPG",
+      "source": "facilities_library.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Sports/Dr. M. Shivarama Reddy.JPG",
+      "file": "/home/z/my-project/download/bmsce_images/153_Dr._M._Shivarama_Reddy.JPG",
+      "filename": "Dr._M._Shivarama_Reddy.JPG",
+      "source": "facilities_sports.json"
+    },
+    {
+      "url": "https://bmsce.ac.in//assets/img/Administration/Dr. Bheemsha.jpeg",
+      "file": "/home/z/my-project/download/bmsce_images/154_Dr._Bheemsha.jpeg",
+      "filename": "Dr._Bheemsha.jpeg",
+      "source": "innovation_idea_lab.json"
+    },
+    {
+      "url": "https://bmsce.ac.in//assets/img/BOG/Dr_Ravi_Kumar_L_.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/155_Dr_Ravi_Kumar_L_.jpg",
+      "filename": "Dr_Ravi_Kumar_L_.jpg",
+      "source": "innovation_idea_lab.json"
+    },
+    {
+      "url": "https://bmsce.ac.in//assets/files/IdeaLab/raghu.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/156_raghu.jpg",
+      "filename": "raghu.jpg",
+      "source": "innovation_idea_lab.json"
+    },
+    {
+      "url": "https://bmsce.ac.in//assets/files/IdeaLab/Harish.png",
+      "file": "/home/z/my-project/download/bmsce_images/157_Harish.png",
+      "filename": "Harish.png",
+      "source": "innovation_idea_lab.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/files/IIC/IIC.png",
+      "file": "/home/z/my-project/download/bmsce_images/158_IIC.png",
+      "filename": "IIC.png",
+      "source": "innovation_iic.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/Gallery/COLLEGE/IMG_9040.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/159_IMG_9040.jpg",
+      "filename": "IMG_9040.jpg",
+      "source": "other_gallery.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/Gallery/COLLEGE/IMG_8957.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/160_IMG_8957.jpg",
+      "filename": "IMG_8957.jpg",
+      "source": "other_gallery.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/Gallery/COLLEGE/IMG_8697.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/161_IMG_8697.jpg",
+      "filename": "IMG_8697.jpg",
+      "source": "other_gallery.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/Gallery/COLLEGE/IMG_8549.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/162_IMG_8549.jpg",
+      "filename": "IMG_8549.jpg",
+      "source": "other_gallery.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/Gallery/COLLEGE/IMG_8298.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/163_IMG_8298.jpg",
+      "filename": "IMG_8298.jpg",
+      "source": "other_gallery.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/Gallery/COLLEGE/IMG_8188.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/164_IMG_8188.jpg",
+      "filename": "IMG_8188.jpg",
+      "source": "other_gallery.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/Gallery/COLLEGE/IMG_8472.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/165_IMG_8472.jpg",
+      "filename": "IMG_8472.jpg",
+      "source": "other_gallery.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/Gallery/COLLEGE/IMG_8051.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/166_IMG_8051.jpg",
+      "filename": "IMG_8051.jpg",
+      "source": "other_gallery.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/Gallery/COLLEGE/IMG_7978.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/167_IMG_7978.jpg",
+      "filename": "IMG_7978.jpg",
+      "source": "other_gallery.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/Gallery/COLLEGE/IMG_7712.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/168_IMG_7712.jpg",
+      "filename": "IMG_7712.jpg",
+      "source": "other_gallery.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/Gallery/COLLEGE/IMG_7631.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/169_IMG_7631.jpg",
+      "filename": "IMG_7631.jpg",
+      "source": "other_gallery.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/Gallery/COLLEGE/IMG_7614.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/170_IMG_7614.jpg",
+      "filename": "IMG_7614.jpg",
+      "source": "other_gallery.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/Gallery/COLLEGE/IMG_7528.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/171_IMG_7528.jpg",
+      "filename": "IMG_7528.jpg",
+      "source": "other_gallery.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/Gallery/COLLEGE/IMG_7231.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/172_IMG_7231.jpg",
+      "filename": "IMG_7231.jpg",
+      "source": "other_gallery.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/Gallery/COLLEGE/IMG_7485.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/173_IMG_7485.jpg",
+      "filename": "IMG_7485.jpg",
+      "source": "other_gallery.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/Gallery/COLLEGE/IMG_7337.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/174_IMG_7337.jpg",
+      "filename": "IMG_7337.jpg",
+      "source": "other_gallery.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/Gallery/COLLEGE/IMG_7147.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/175_IMG_7147.jpg",
+      "filename": "IMG_7147.jpg",
+      "source": "other_gallery.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/Gallery/COLLEGE/IMG_7091.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/176_IMG_7091.jpg",
+      "filename": "IMG_7091.jpg",
+      "source": "other_gallery.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/Gallery/COLLEGE/IMG_6836.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/177_IMG_6836.jpg",
+      "filename": "IMG_6836.jpg",
+      "source": "other_gallery.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/Gallery/COLLEGE/IMG_6906.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/178_IMG_6906.jpg",
+      "filename": "IMG_6906.jpg",
+      "source": "other_gallery.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/Gallery/COLLEGE/IMG_6543.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/179_IMG_6543.jpg",
+      "filename": "IMG_6543.jpg",
+      "source": "other_gallery.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/Gallery/COLLEGE/IMG_5941.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/180_IMG_5941.jpg",
+      "filename": "IMG_5941.jpg",
+      "source": "other_gallery.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/Gallery/COLLEGE/IMG_5848.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/181_IMG_5848.jpg",
+      "filename": "IMG_5848.jpg",
+      "source": "other_gallery.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/Gallery/COLLEGE/ISO_140012015_Certification-1.jpeg",
+      "file": "/home/z/my-project/download/bmsce_images/182_ISO_140012015_Certification-1.jpeg",
+      "filename": "ISO_140012015_Certification-1.jpeg",
+      "source": "other_gallery.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/Gallery/COLLEGE/1-5G-Lab-inauguration-Pictures_for_Website_.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/183_1-5G-Lab-inauguration-Pictures_for_Website_.jpg",
+      "filename": "1-5G-Lab-inauguration-Pictures_for_Website_.jpg",
+      "source": "other_gallery.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/Gallery/COLLEGE/1.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/184_1.jpg",
+      "filename": "1.jpg",
+      "source": "other_gallery.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/Gallery/COLLEGE/BOG_2020_0.JPG",
+      "file": "/home/z/my-project/download/bmsce_images/185_BOG_2020_0.JPG",
+      "filename": "BOG_2020_0.JPG",
+      "source": "other_gallery.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/Gallery/COLLEGE/ICOMBI-1.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/186_ICOMBI-1.jpg",
+      "filename": "ICOMBI-1.jpg",
+      "source": "other_gallery.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/Gallery/COLLEGE/Mitsubishi_img-2.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/187_Mitsubishi_img-2.jpg",
+      "filename": "Mitsubishi_img-2.jpg",
+      "source": "other_gallery.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/Gallery/COLLEGE/IMG_0003.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/188_IMG_0003.jpg",
+      "filename": "IMG_0003.jpg",
+      "source": "other_gallery.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/Gallery/COLLEGE/IMG_9756.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/189_IMG_9756.jpg",
+      "filename": "IMG_9756.jpg",
+      "source": "other_gallery.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/Gallery/COLLEGE/IMG_9835.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/190_IMG_9835.jpg",
+      "filename": "IMG_9835.jpg",
+      "source": "other_gallery.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/Gallery/COLLEGE/IMG_8920.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/191_IMG_8920.jpg",
+      "filename": "IMG_8920.jpg",
+      "source": "other_gallery.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/Gallery/COLLEGE/014.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/192_014.jpg",
+      "filename": "014.jpg",
+      "source": "other_gallery.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/Gallery/COLLEGE/01.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/193_01.jpg",
+      "filename": "01.jpg",
+      "source": "other_gallery.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/Gallery/COLLEGE/11.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/194_11.jpg",
+      "filename": "11.jpg",
+      "source": "other_gallery.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Placement/dr_sharan.png",
+      "file": "/home/z/my-project/download/bmsce_images/195_dr_sharan.png",
+      "filename": "dr_sharan.png",
+      "source": "placements_about.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Placement/Dr_K_R_Sudhindra.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/196_Dr_K_R_Sudhindra.jpg",
+      "filename": "Dr_K_R_Sudhindra.jpg",
+      "source": "placements_about.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Placement/Nandini_Vineet.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/197_Nandini_Vineet.jpg",
+      "filename": "Nandini_Vineet.jpg",
+      "source": "placements_about.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Placement/Activities/placement_broadridge.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/198_placement_broadridge.jpg",
+      "filename": "placement_broadridge.jpg",
+      "source": "placements_achievements.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Placement/Activities/placement_cisco1.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/199_placement_cisco1.jpg",
+      "filename": "placement_cisco1.jpg",
+      "source": "placements_achievements.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Placement/Activities/placement_cisco2.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/200_placement_cisco2.jpg",
+      "filename": "placement_cisco2.jpg",
+      "source": "placements_achievements.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Placement/placement 2025_1.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/201_placement_2025_1.jpg",
+      "filename": "placement_2025_1.jpg",
+      "source": "placements_statistics.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Placement/placement 2025_2.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/202_placement_2025_2.jpg",
+      "filename": "placement_2025_2.jpg",
+      "source": "placements_statistics.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Placement/placement 2024_3.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/203_placement_2024_3.jpg",
+      "filename": "placement_2024_3.jpg",
+      "source": "placements_statistics.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Placement/placement 2024_4.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/204_placement_2024_4.jpg",
+      "filename": "placement_2024_4.jpg",
+      "source": "placements_statistics.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Placement/placement 2024_5.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/205_placement_2024_5.jpg",
+      "filename": "placement_2024_5.jpg",
+      "source": "placements_statistics.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Placement/stats.png",
+      "file": "/home/z/my-project/download/bmsce_images/206_stats.png",
+      "filename": "stats.png",
+      "source": "placements_statistics.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Placement/Activities/placement stats.png",
+      "file": "/home/z/my-project/download/bmsce_images/207_placement_stats.png",
+      "filename": "placement_stats.png",
+      "source": "placements_statistics.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Placement/placement_det.png",
+      "file": "/home/z/my-project/download/bmsce_images/208_placement_det.png",
+      "filename": "placement_det.png",
+      "source": "placements_statistics.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Placement/ug1.png",
+      "file": "/home/z/my-project/download/bmsce_images/209_ug1.png",
+      "filename": "ug1.png",
+      "source": "placements_statistics.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Placement/pg1.png",
+      "file": "/home/z/my-project/download/bmsce_images/210_pg1.png",
+      "filename": "pg1.png",
+      "source": "placements_statistics.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Placement/mca1.png",
+      "file": "/home/z/my-project/download/bmsce_images/211_mca1.png",
+      "filename": "mca1.png",
+      "source": "placements_statistics.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Placement/2023_placement.png",
+      "file": "/home/z/my-project/download/bmsce_images/212_2023_placement.png",
+      "filename": "2023_placement.png",
+      "source": "placements_statistics.json"
+    },
+    {
+      "url": "https://bmsce.ac.in/assets/img/Research/Committee/Dr__Chandasree_Das.jpg",
+      "file": "/home/z/my-project/download/bmsce_images/213_Dr__Chandasree_Das.jpg",
+      "filename": "Dr__Chandasree_Das.jpg",
+      "source": "research_about.json"
+    }
+  ]
+}
